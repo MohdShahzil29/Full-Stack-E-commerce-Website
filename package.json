@@ -1,7 +1,7 @@
 {
-  "name": "ecommerce-app-2023",
+  "name": "ecommerce-website",
   "version": "1.0.0",
-  "description": "ecommerce rest api",
+  "description": "ecommerce website",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [],
-  "author": "Techinfoyt",
+  "author": "Shahzil",
   "license": "MIT",
   "dependencies": {
     "@sendgrid/mail": "^7.7.0",
